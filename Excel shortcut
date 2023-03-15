@@ -1,2 +1,23 @@
 // to open format dialog 
 ctrl + 1
+
+// to press enter and stay in the current cell
+ctrl + enter
+
+// to go the first cell in the current row 
+press home key
+
+// to go the last cell in the current row. If there is data entered in the row the last data in the row will be selected 
+ctrl + right arrow 
+
+// to go to the first cell in worksheet 
+ctrl + home
+
+// to go to the last data in the worksheet
+ctrl + end
+
+// to edit current selected cell 
+press F2 key
+
+
+
