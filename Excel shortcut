@@ -1,3 +1,6 @@
+// for absolute reference. Fix columns or rows. Put $ in current selected cell
+F4
+
 // to see all the formulas in the worksheet
 ctrl + ~
 
