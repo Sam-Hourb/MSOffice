@@ -1,0 +1,14 @@
+// to select a word
+double click the word
+
+// to select a sentence 
+press and hold ctrl and click on any word in the sentence
+
+// to select multiple consecutive sentences 
+first press and hold ctrl and click on any word in the first sentence, 
+then release the ctrl key and press shift key and hold, and click on the senteces
+
+// to select a portion of a sentence or a paragraph
+first click where you want the selection starts ( cursor flashing ), 
+then press and hold shit key and click where you want the selection ends. 
+
